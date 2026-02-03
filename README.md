@@ -30,7 +30,7 @@ The composite visualisation consists of four figures:
 All figures are generated using R and saved in the Figures directory.
 
 ## Project structure
-
+```text
 .
 ├── Data
 │   ├── 01_raw
@@ -55,7 +55,7 @@ All figures are generated using R and saved in the Figures directory.
 │   └── 06_visualisation_chart4_heatmap_recovery.R
 │
 └── README.md
-
+```
 ## Reproducibility
 
 All visualisations can be reproduced by running the R scripts in the R directory, with the working directory set to the project root.
